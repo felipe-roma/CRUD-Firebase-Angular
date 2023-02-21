@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "devdactic-tut-f92a4": {
+      "hosting": {
+        "app": [
+          "devdactic-tut-f92a4"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "devdactic-tut-f92a4"
+  }
+}
